@@ -1,0 +1,9 @@
+{
+  "name": "rsvp",
+  "description": "RSVP.js provides simple tools for organizing asynchronous code.",
+  "type": "component",
+  "homepage": "http://github.com/components/rsvp.js",
+  "license": "MIT",
+  "main": "./rsvp.js",
+  "scripts": ["./rsvp.js"]
+}
